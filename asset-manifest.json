@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.754ebb54.css",
-    "main.js": "/static/js/main.2e007668.js",
-    "index.html": "/index.html",
-    "main.754ebb54.css.map": "/static/css/main.754ebb54.css.map",
-    "main.2e007668.js.map": "/static/js/main.2e007668.js.map"
+    "main.css": "/antidementia/static/css/main.754ebb54.css",
+    "main.js": "/antidementia/static/js/main.7bdce9cb.js",
+    "index.html": "/antidementia/index.html",
+    "main.754ebb54.css.map": "/antidementia/static/css/main.754ebb54.css.map",
+    "main.7bdce9cb.js.map": "/antidementia/static/js/main.7bdce9cb.js.map"
   },
   "entrypoints": [
     "static/css/main.754ebb54.css",
-    "static/js/main.2e007668.js"
+    "static/js/main.7bdce9cb.js"
   ]
 }
